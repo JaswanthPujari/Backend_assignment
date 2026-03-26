@@ -1,0 +1,29 @@
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables (important for secrets)
+.env
+
+# Database files (optional but recommended)
+*.db
+*.sqlite
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional)
+.vscode/
+
+# Build / cache
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.temp
